@@ -1,6 +1,6 @@
 :computer: _Web Developer_ ☀️ Living in Barcelona 🇪🇸
 
-<img align="right" width="400" height="400" src="https://github.com/dan-dm/dan-dm/blob/main/profile-image.png?raw=true">
+<img align="right" width="400" height="400" src="https://github.com/dan-dm/dan-dm/blob/main/profile-image2.png?raw=true">
 
 <img  align="right" alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=dan-dm.dan-dm" /> 
 
