@@ -1,5 +1,7 @@
 :computer: _Web Developer_ ☀️ Living in Barcelona 🇪🇸
 
+<img align="right" width="400" height="400" src="https://github.com/dan-dm/dan-dm/blob/main/profile-image.png?raw=true">
+
 <img  align="right" alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=dan-dm.dan-dm" /> 
 
 # Hi there, I'm Dan 👋
@@ -12,9 +14,9 @@ I'm currently working on web development with technologies like JavaScript, Node
 🎮 Gaming | ✈️ Travel | 📚 Learning
 
 - :earth_americas: I'm from Romania 🇷🇴
-- 🖥️: VIM / Bash
+- 🖥️ VIM / Bash
 - ![Apple](https://img.shields.io/badge/-black?style=flat-square&logo=Apple)Apple Enthusiast 
-- 📚 I’m currently learning everything about Microsoft Azure.
+- 📚 I’m currently learning everything about Azure.
 
 
 ## Contact me 📭
