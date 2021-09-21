@@ -30,7 +30,7 @@ I'm currently working on ( mostly ) backend development with technologies like J
 
 - :earth_americas: I'm from Romania 🇷🇴
 - 🖥️ VIM / Bash
-- ![Apple](https://img.shields.io/badge/-black?style=flat-square&logo=Apple)Apple Enthusiast 
+- <img width="23" height="23" padding="0" margin="0" src="https://github.com/dan-dm/my-digital-garden/blob/master/assets/apple-icon.png"> Apple Enthusiast 
 - 📚 I’m currently learning everything about Azure.
 
 
