@@ -57,8 +57,9 @@ I'm currently working on ( mostly ) backend development with technologies like J
 #### Technologies
 
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![Socket.io](https://img.shields.io/badge/-Socket.io-black?style=flat-square&logo=socket.io)
+![Espress](https://img.shields.io/badge/-Express-black?style=flat-square&logo=Express)
 ![Nest.js](https://img.shields.io/badge/-Nest.js-black?style=flat-square&logo=Nestjs)
+![Socket.io](https://img.shields.io/badge/-Socket.io-black?style=flat-square&logo=socket.io)
 ![Jekyll](https://img.shields.io/badge/-Jekyll-black?style=flat-square&logo=jekyll)
 ![Gatsby](https://img.shields.io/badge/-Gatsby-black?style=flat-square&logo=gatsby)
 
