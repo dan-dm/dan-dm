@@ -58,7 +58,7 @@ I'm currently working on ( mostly ) backend development with technologies like J
 
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Socket.io](https://img.shields.io/badge/-Socket.io-black?style=flat-square&logo=socket.io)
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=Next.js)
 ![Jekyll](https://img.shields.io/badge/-Jekyll-black?style=flat-square&logo=jekyll)
 ![Gatsby](https://img.shields.io/badge/-Gatsby-black?style=flat-square&logo=gatsby)
 
@@ -77,9 +77,9 @@ I'm currently working on ( mostly ) backend development with technologies like J
 #### Tools and Others
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ_IDEA-black?style=flat-square&logo=IntelliJ-Idea)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-black?style=flat-square&logo=Visual-Studio-Code)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu)
+
 
 
