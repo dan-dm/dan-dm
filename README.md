@@ -25,8 +25,6 @@ Here are some ideas to get you started:
 
 I'm currently working on ( mostly ) backend development with technologies like JavaScript, Node.js, Express etc.
 
-<a href="https://app.daily.dev/dan_m"><img align="right" src="https://api.daily.dev/devcards/515cea5bb20446d3b8c2799d644c15d0.png?r=3qj" width="400" alt="dan m.'s Dev Card"/></a>
-
 ## About me 
 
 🎮 Gaming | ✈️ Travel | 📚 Learning
@@ -38,6 +36,8 @@ I'm currently working on ( mostly ) backend development with technologies like J
 
 
 ## Contact me 📭
+
+<a href="https://app.daily.dev/dan_m"><img align="right" src="https://api.daily.dev/devcards/515cea5bb20446d3b8c2799d644c15d0.png?r=3qj" width="400" alt="dan m.'s Dev Card"/></a>
 
 [![Twitter Badge](https://img.shields.io/badge/-@dan_marius-black?style=flat-square&logo=twitter&link=https://twitter.com/dan_marius)](https://twitter.com/dan_marius)
 [![Linkedin Badge](https://img.shields.io/badge/-danmariusdumitrescu-black?style=flat-square&logo=Linkedin&link=https://www.linkedin.com/in/danmariusdumitrescu/)](https://www.linkedin.com/in/danmariusdumitrescu/) 
