@@ -36,7 +36,7 @@ I'm currently working on ( mostly ) backend development with technologies like J
 
 ## Contact me 📭
 
-<img align="right" display="inline-block" src="https://api.daily.dev/devcards/515cea5bb20446d3b8c2799d644c15d0.png?r=3qj" width="400" alt="dan m.'s Dev Card"/>
+<img align="right" display="inline-block" src="https://api.daily.dev/devcards/515cea5bb20446d3b8c2799d644c15d0.png?r=3qj" width="350" alt="dan m.'s Dev Card"/>
 
 [![Twitter Badge](https://img.shields.io/badge/-@dan_marius-black?style=flat-square&logo=twitter&link=https://twitter.com/dan_marius)](https://twitter.com/dan_marius)
 [![Linkedin Badge](https://img.shields.io/badge/-danmariusdumitrescu-black?style=flat-square&logo=Linkedin&link=https://www.linkedin.com/in/danmariusdumitrescu/)](https://www.linkedin.com/in/danmariusdumitrescu/) 
