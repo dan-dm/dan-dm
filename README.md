@@ -21,12 +21,11 @@ Here are some ideas to get you started:
 
 <img  align="right" alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=dan-dm.dan-dm" /> 
 
-<a href="https://app.daily.dev/dan_m"><img align="right" src="https://api.daily.dev/devcards/515cea5bb20446d3b8c2799d644c15d0.png?r=3qj" width="400" alt="dan m.'s Dev Card"/></a>
-
 # Hi there, I'm Dan 👋
 
 I'm currently working on ( mostly ) backend development with technologies like JavaScript, Node.js, Express etc.
 
+<a href="https://app.daily.dev/dan_m"><img align="right" src="https://api.daily.dev/devcards/515cea5bb20446d3b8c2799d644c15d0.png?r=3qj" width="400" alt="dan m.'s Dev Card"/></a>
 
 ## About me 
 
