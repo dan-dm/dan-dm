@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 
 :computer: _Web Developer and Data Enthusiast_ ☀️ Living in Barcelona 🇪🇸
-<img align="right" width="350" src="https://api.daily.dev/devcards/515cea5bb20446d3b8c2799d644c15d0.png?r=3qj" alt="dan m.'s Dev Card"/>
+<img align="right" width="400" src="https://api.daily.dev/devcards/515cea5bb20446d3b8c2799d644c15d0.png?r=3qj" alt="dan m.'s Dev Card"/>
 
 <img align="right" alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=dan-dm.dan-dm" /> 
 
@@ -33,7 +33,8 @@ I'm currently working on ( mostly ) backend development with technologies like J
 - <img width="23" height="23" src="https://github.com/dan-dm/my-digital-garden/blob/master/assets/apple-icon.png"> Apple Enthusiast 
 - 📚 I’m currently learning everything about Azure.
 
-### Contact me 📭
+## Contact me 📭
+
 <img align="right" width="400" height="400" src="https://github.com/dan-dm/dan-dm/blob/main/profile-image2.png?raw=true">
 
 [![Twitter Badge](https://img.shields.io/badge/-@dan_marius-black?style=flat-square&logo=twitter&link=https://twitter.com/dan_marius)](https://twitter.com/dan_marius)
