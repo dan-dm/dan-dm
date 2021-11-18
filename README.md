@@ -43,7 +43,7 @@ I'm currently working on ( mostly ) backend development with technologies like J
 [![Outlook](https://img.shields.io/badge/-bonjour@danmarius.dev-black?style=flat-square&logo=Gmail)](mailto:bonjour@danmarius.dev)
 
 
-### My Tech Stack
+## My Tech Stack
 <img align="right" width="350" src="https://api.daily.dev/devcards/515cea5bb20446d3b8c2799d644c15d0.png?r=3qj" alt="dan m.'s Dev Card"/>
 
 #### Languages
