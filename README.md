@@ -35,14 +35,14 @@ I'm currently working on ( mostly ) backend development with technologies like J
 
 ## Contact me 📭
 
-<img align="right" width="400" height="400" src="https://github.com/dan-dm/dan-dm/blob/main/profile-image2.png?raw=true">
-
 [![Twitter Badge](https://img.shields.io/badge/-@dan_marius-black?style=flat-square&logo=twitter&link=https://twitter.com/dan_marius)](https://twitter.com/dan_marius)
 [![Linkedin Badge](https://img.shields.io/badge/-danmariusdumitrescu-black?style=flat-square&logo=Linkedin&link=https://www.linkedin.com/in/danmariusdumitrescu/)](https://www.linkedin.com/in/danmariusdumitrescu/) 
 [![Reddit URL](https://img.shields.io/badge/-/u/pointt-black?style=flat-square&logo=reddit&link=https://www.reddit.com/user/pointt/)](https://www.reddit.com/user/pointt)
 [![Keybase PGP](https://img.shields.io/badge/-PGP:69A3CF125FBE00C7-black?style=flat-square&logo=keybase&link=https://keybase.io/danmarius/)](https://keybase.io/danmarius)
 [![Outlook](https://img.shields.io/badge/-bonjour@danmarius.dev-black?style=flat-square&logo=Gmail)](mailto:bonjour@danmarius.dev)
 
+
+<img align="right" width="400" height="400" src="https://github.com/dan-dm/dan-dm/blob/main/profile-image2.png?raw=true">
 
 ### My Tech Stack
 #### Languages
