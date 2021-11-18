@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <img align="right" width="400" height="400" src="https://github.com/dan-dm/dan-dm/blob/main/profile-image2.png?raw=true">
 
-<img  align="right" alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=dan-dm.dan-dm" /> 
+<img align="right" alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=dan-dm.dan-dm" /> 
 
 # Hi there, I'm Dan 👋
 
@@ -36,8 +36,6 @@ I'm currently working on ( mostly ) backend development with technologies like J
 
 ## Contact me 📭
 
-<img align="right" display="inline-block" src="https://api.daily.dev/devcards/515cea5bb20446d3b8c2799d644c15d0.png?r=3qj" width="350" alt="dan m.'s Dev Card"/>
-
 [![Twitter Badge](https://img.shields.io/badge/-@dan_marius-black?style=flat-square&logo=twitter&link=https://twitter.com/dan_marius)](https://twitter.com/dan_marius)
 [![Linkedin Badge](https://img.shields.io/badge/-danmariusdumitrescu-black?style=flat-square&logo=Linkedin&link=https://www.linkedin.com/in/danmariusdumitrescu/)](https://www.linkedin.com/in/danmariusdumitrescu/) 
 [![Reddit URL](https://img.shields.io/badge/-/u/pointt-black?style=flat-square&logo=reddit&link=https://www.reddit.com/user/pointt/)](https://www.reddit.com/user/pointt)
@@ -46,6 +44,7 @@ I'm currently working on ( mostly ) backend development with technologies like J
 
 
 ### My Tech Stack
+<img align="right" width="350" src="https://api.daily.dev/devcards/515cea5bb20446d3b8c2799d644c15d0.png?r=3qj" alt="dan m.'s Dev Card"/>
 
 #### Languages
 
