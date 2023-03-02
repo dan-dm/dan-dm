@@ -29,7 +29,7 @@ I'm currently working on ( mostly ) backend development with technologies like J
 🎮 Gaming | ✈️ Travel | 📚 Learning
 
 - :earth_americas: I'm from Romania 🇷🇴
-- 🖥️ VIM / Bash
+- 🖥️ VIM / Zsh
 - <img width="23" height="23" src="https://github.com/dan-dm/my-digital-garden/blob/master/assets/apple-icon.png"> Apple Enthusiast 
 - 📚 I’m currently learning everything about Azure.
 
