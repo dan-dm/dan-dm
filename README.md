@@ -33,7 +33,7 @@ I'm currently working on ( mostly ) backend development with technologies like J
 - <img width="23" height="23" src="https://github.com/dan-dm/my-digital-garden/blob/master/assets/apple-icon.png"> Apple Enthusiast 
 - 📚 I’m currently learning everything about Azure.
 
-## Contact me 📭
+### Contact me 📭
 
 [![Twitter Badge](https://img.shields.io/badge/-@dan_marius-black?style=flat-square&logo=twitter&link=https://twitter.com/dan_marius)](https://twitter.com/dan_marius)
 [![Linkedin Badge](https://img.shields.io/badge/-danmariusdumitrescu-black?style=flat-square&logo=Linkedin&link=https://www.linkedin.com/in/danmariusdumitrescu/)](https://www.linkedin.com/in/danmariusdumitrescu/) 
