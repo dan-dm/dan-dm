@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <img align="right" width="400" height="400" src="https://github.com/dan-dm/dan-dm/blob/main/profile-image2.png?raw=true">
 <img align="right" alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=dan-dm.dan-dm" />
 
-# Hi there, I'm Dan 👋
+### Hi there, I'm Dan 👋
 
 I'm currently working on ( mostly ) backend development with technologies like JavaScript, Node.js, Express etc.
 
