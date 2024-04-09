@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 I'm currently working on ( mostly ) backend development with technologies like JavaScript, Node.js, Express etc.
 
-## About me 
+**About me** 
 
 🎮 Gaming | ✈️ Travel | 📚 Learning
 
